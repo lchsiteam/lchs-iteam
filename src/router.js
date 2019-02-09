@@ -15,7 +15,7 @@ export default new VueRouter({
     { path: '/work', name: 'OurWork', component: OurWork },
     { path: '/about', name: 'AboutUs', component: AboutUs },
     { path: '/', name: 'Home', component: HomePage },
-    { path: '/podcasts', name: 'Podcats', component: Podcasts },
+    { path: '/podcasts', name: 'Podcasts', component: Podcasts },
   ],
   mode: 'history'
 })
