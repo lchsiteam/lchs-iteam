@@ -4,9 +4,9 @@
   <p> Feel free to send us an email if you want to talk with us. We can provide you with information, or anything else you need. </p>
   
   
-  <a src="mailto:iteam@lcusd.net"> Main Email </a>
-  <a src="mailto:ejeffries22@mylcusd.net"> Ean Jeffries </a>
-  <a src="mailto:kmo19@mylcusd.net"> Kevin Mo </a>
+  <a href="mailto:iteam@lcusd.net"> Main Email </a>
+  <a href="mailto:ejeffries22@mylcusd.net"> Ean Jeffries </a>
+  <a href="mailto:kmo19@mylcusd.net"> Kevin Mo </a>
   </div>
 </template>
 

@@ -5,7 +5,7 @@
     <br>
     <p> For example, we're working on a streamlined method for people to view all homework in one place.</p>
     <p> If you want to check us out, we meet in the Help Lab (mostly) every monday! </p>
-    <a src="lcusd.net"> LCUSD Homepage </a>
+    <a href="lcusd.net"> LCUSD Homepage </a>
   </div>
 </template>
 
