@@ -8,6 +8,7 @@
       <li :class="{ selected: currentRouteName == 'AboutUs' }" @click="goToPage('AboutUs')">About Us</li>
       <li :class="{ selected: currentRouteName == 'OurWork' }" @click="goToPage('OurWork')">Our Work</li>
       <li :class="{ selected: currentRouteName == 'JoinUs' }" @click="goToPage('JoinUs')">Join Us</li>
+      <li :class="{ selected: currentRouteName == 'Podcasts' }" @click="goToPage('Podcasts')">Podcasts</li>
     </ul>
   </div>
 </template>
