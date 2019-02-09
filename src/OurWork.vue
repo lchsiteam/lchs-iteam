@@ -2,6 +2,7 @@
   <div id="projects">
     <h1>Our Work</h1>
     <p>Here is a list of our projects that iTeam has worked on.</p>
+    <p> This website(obviously) </p>
   </div>
 </template>
 
