@@ -5,6 +5,7 @@ import HomePage from './Home'
 import AboutUs from './AboutUs'
 import OurWork from './OurWork'
 import JoinUs from './JoinUs'
+import Subdomains from './Subdomains'
 import Podcasts from './Podcasts'
 
 Vue.use(VueRouter)
@@ -16,6 +17,7 @@ export default new VueRouter({
     { path: '/about', name: 'AboutUs', component: AboutUs },
     { path: '/', name: 'Home', component: HomePage },
     { path: '/podcasts', name: 'Podcasts', component: Podcasts },
+    { path: '/subdomains', name: 'Subdomains', component: Subdomains }
   ],
   mode: 'history'
 })
