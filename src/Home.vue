@@ -1,6 +1,7 @@
 <template>
   <div id="home">
     <img src="./assets/iTeamForWeb.jpeg"/>
+    
   </div>
 </template>
 

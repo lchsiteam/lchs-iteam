@@ -1,6 +1,6 @@
 <template>
   <div id="aboutus">
-    <h1>About ITeam</h1>
+    <h1 style="text-align: center;">About ITeam</h1>
     <p> We are one of LCHS's many clubs. We help people with tech issues and try to improve the school using technology. </p>
     <br>
     <p> For example, we're working on a streamlined method for people to view all homework in one place.</p>

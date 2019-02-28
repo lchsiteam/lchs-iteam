@@ -1,15 +1,16 @@
 <template>
   <div id="join">
+  <h1 style="text-align: center;"> Join iTeam! </h1>
   <p> If you want to check us out, we meet in the Help Lab (mostly) every monday! </p>
   <p> Feel free to send us an email if you want to talk with us. We can provide you with information, or anything else you need. </p>
   
   
-  <a href="mailto:iteam@lcusd.net"> Main Email </a> 
+  <a href="mailto:iteam@lcusd.net" target = "blank"> Main Email </a> 
   <br>
 
-  <a href="mailto:ejeffries22@mylcusd.net"> Ean Jeffries </a>
+  <a href="mailto:ejeffries22@mylcusd.net" target = "blank"> Ean Jeffries </a>
   <br>
-  <a href="mailto:kmo19@mylcusd.net"> Kevin Mo </a>
+  <a href="mailto:kmo19@mylcusd.net" target = "blank"> Kevin Mo </a>
   </div>
 </template>
 
