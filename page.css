@@ -1,0 +1,22 @@
+nav, main {
+    margin: 20px 20vw;
+    width: 60vw;
+}
+
+nav {
+    margin-top: 8vh;
+}
+
+nav .nav-back {
+    text-decoration: none;
+    color: #999;
+}
+
+nav .nav-back:hover {
+    color: #777;
+}
+
+nav .nav-back:before {
+    content: '\21A9';
+    margin-right: 10px;
+}
