@@ -113,3 +113,29 @@ html, body {
     user-select: none;
     opacity: 0.2;
 }
+
+.main-item {
+    background: #eee;
+    margin: 5px;
+    padding: 10px 20px;
+}
+
+.mi-heading {
+    font-size: 2em;
+    font-weight: 600;
+    margin: 5px 0;
+}
+
+.mi-desc {
+    margin: 10px 0;
+}
+
+.mi-links {
+    font-family: monospace;
+    margin: 10px 0;
+}
+
+.mi-links a {
+    color: #444;
+    margin-right: 12px;
+}
